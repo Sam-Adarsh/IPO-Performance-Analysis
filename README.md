@@ -1,4 +1,4 @@
-# 📈 IPO Performance Analysis (India)
+# 📈 IPO Performance Analysis (Indian Stock Market)
 
 This project provides a comprehensive analysis of IPOs (Initial Public Offerings) in the Indian stock market using a dataset sourced from Kaggle.
 
@@ -49,7 +49,7 @@ This project provides a comprehensive analysis of IPOs (Initial Public Offerings
 ### ✍️ Author
 
 Adarsh S  
-Feel free to connect with me on [LinkedIn](http://linkedin.com/in/samadarsh14 )
+Feel free to connect with me on [LinkedIn](http://linkedin.com/in/samadarsh14)
 ---
 
 ### 📌 Note
