@@ -24,7 +24,7 @@ This project provides a comprehensive analysis of IPOs (Initial Public Offerings
 - **Source**: [Kaggle IPO Dataset](https://www.kaggle.com/datasets/soumyadipghorai/all-ipo-stocks-of-moneycontrol?resource=download)  
 - Contains information such as:
   - IPO Name, Date, Issue Price, Listing Price, CMP (Current Market Price)
-  - Issue Size, Listing Gains %, etc.
+  - Issue Size, Listing Gains%, etc.
 
 ---
 
